@@ -24,7 +24,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fopenthread.google.cn%2Fimages%2Fot-contrib-google.png&imgrefurl=http%3A%2F%2Fwww.google.com%2F&tbnid=EuyEu1gJ3RASTM&vet=12ahUKEwiKjtGdlbjwAhVQA3IKHYpUBHAQMygAegUIARDRAQ..i&docid=zhool8dxBV4loM&w=460&h=258&q=google&ved=2ahUKEwiKjtGdlbjwAhVQA3IKHYpUBHAQMygAegUIARDRAQ)
+[Link](url) and ![Image](https://cdn.britannica.com/30/199930-131-B3D1D347/computer.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
