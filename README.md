@@ -16,6 +16,7 @@
         render() {
           return (
             <div>
+                <h1>Hello</h1>
                 <input   type="number" value="num1"/>
                 <input   type="number" value="num2"/>
                 <button>Add</button>
