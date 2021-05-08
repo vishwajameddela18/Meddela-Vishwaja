@@ -2,12 +2,12 @@
 
 ### Looking to start a career as a Software Developer in an IT company where I can utilize my front-end and back-end domain skills along with problem solving skills to contribute to the organization's success.
 
-## `Contact Details:`
+# `Contact Details:`
 - **Phone:** +91 7382285508
 - **Email:**  vishwajameddela18@gmail.com
 - **Linkedin:** [linkedin.com/in/vishwaja-meddela](linkedin.com/in/vishwaja-meddela)
 
-## `Education:`
+# `Education:`
 ### Masters in Information Technology
 - **International Institute of Information Technology, Hyderabad, 2020-22** 
 - **CGPA - 7.3**
@@ -24,7 +24,7 @@
 - **Raghava High school, Nizamabad,  2013**
 - **CGPA - 9.0**
 
-## `Skills: `
+# `Skills: `
 ### Python
 
 - Designed project requirements (1)  in collaboration with teammates
@@ -45,14 +45,14 @@
 ### React-js
 - Designed, developed, tested and reviewed the web application (1) based on checkpoints (end-to-end development)
 
-## `Project Description: `
+# `Project Description: `
 
-**Project Name: Question Answering Project**
+### Project Name: Question Answering Project
 
 - **Role:** Developer 
 - Currently, building a Question Answering Practicum Application in the fields of Information Retrieval and Natural Language Processing which is concerned with building systems that automatically answer questions posed by humans in a natural language.
 
-**Project Name: My portfolio**
+### Project Name: My portfolio
 
 - **Role:** Designer and Developer
 - **Technology Used :** HTML, CSS
@@ -63,7 +63,7 @@
 - Applied HTML and CSS skills to format and layout  the website to make it look appealing
 
 
-**Project Name: Healthline website**
+### Project Name: Healthline website
 
 - **Role:** Designer and Developer
 - **Technology Used :** HTML, CSS
@@ -73,7 +73,7 @@
 - Explored various HTML and CSS tags and applied these skills to format and layout  the website to make it look appealing to the user
 
 
-**Project Name: Connect 4**
+### Project Name: Connect 4
 
 - **Role:** Designer and Developer
 - **Technology Used :** React-js, HTML, CSS
@@ -83,7 +83,7 @@
 - Applied react-js for the game-play and html, css to have great user experience
 
 
-**Project Name: Escape**
+### Project Name: Escape
 
 - **Role:** Designer and Developer
 - **Technology Used :** Python, graphics and event based operations from Tkinter
