@@ -57,13 +57,13 @@
 - Applied HTML and CSS skills to format and layout  the website to make it look appealing
 
 
-Project Name: Healthline website
-	Role: Designer and Developer
-Technology Used : HTML, CSS
-Team-Size: 1
-Description: Healthline is a multi page website with each page showing different sections health related information 
-●	Designed layout consisting of different sections such as homepage, login page, articles etc
-●	Explored various HTML and CSS tags and applied these skills to format and layout  the website to make it look appealing to the user
+**Project Name: Healthline website**
+- **Role:** Designer and Developer
+- **Technology Used :** HTML, CSS
+- **Team-Size:** 1
+- **Description:** Healthline is a multi page website with each page showing different sections health related information 
+- Designed layout consisting of different sections such as homepage, login page, articles etc
+- Explored various HTML and CSS tags and applied these skills to format and layout  the website to make it look appealing to the user
 
 
 Project Name: Connect 4
