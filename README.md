@@ -2,12 +2,12 @@
 
 ### Looking to start a career as a Software Developer in an IT company where I can utilize my front-end and back-end domain skills along with problem solving skills to contribute to the organization's success.
 
-# `CONTACT:`
+# `CONTACT :`
 - **Phone:** +91 7382285508
 - **Email:**  vishwajameddela18@gmail.com
 - **Linkedin:** [linkedin.com/in/vishwaja-meddela](linkedin.com/in/vishwaja-meddela)
 
-# `EDUCATION:`
+# `EDUCATION :`
 ### Masters in Information Technology
 - **International Institute of Information Technology, Hyderabad, 2020-22** 
 - **CGPA - 7.3**
@@ -24,7 +24,7 @@
 - **Raghava High school, Nizamabad,  2013**
 - **CGPA - 9.0**
 
-# `SKILLS: `
+# `SKILLS : `
 ### Python
 
 - Designed project requirements (1)  in collaboration with teammates
@@ -45,7 +45,7 @@
 ### React-js
 - Designed, developed, tested and reviewed the web application (1) based on checkpoints (end-to-end development)
 
-# `PROJECTS: `
+# `PROJECTS : `
 
 ### Project Name: Question Answering Project
 
