@@ -2,7 +2,7 @@
 
 ### Looking to start a career as a Software Developer in an IT company where I can utilize my front-end and back-end domain skills along with problem solving skills to contribute to the organization's success.
 
-# `CONTACT :`
+# `CONTACT DETAILS :`
 - **Phone:** +91 7382285508
 - **Email:**  vishwajameddela18@gmail.com
 - **Linkedin:** [linkedin.com/in/vishwaja-meddela](linkedin.com/in/vishwaja-meddela)
