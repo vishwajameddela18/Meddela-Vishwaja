@@ -1,5 +1,11 @@
-# vishwajameddela18.github.io
-## Welcome to GitHub Pages
+# Vishwaja Meddela
+## Pursuin MSIT in IIIT-H
+
+### `Contact Details:`
+
+### Phone - +91 7382285508
+### Email - vishwajameddela18@gmail.com
+### linkedin.com/in/vishwaja-meddela
 
 You can use the [editor on GitHub](https://github.com/divyaparvatala/divyaparvatala.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
