@@ -1,49 +1,49 @@
 
 
-## Looking to start a career as a Software Developer in an IT company where I can utilize my front-end and back-end domain skills along with problem solving skills to contribute to the organization's success.
+### Looking to start a career as a Software Developer in an IT company where I can utilize my front-end and back-end domain skills along with problem solving skills to contribute to the organization's success.
 
-## **`Contact Details:`**
+## `Contact Details:`
 - Phone: +91 7382285508
 - Email:  vishwajameddela18@gmail.com
 - Linkedin: [linkedin.com/in/vishwaja-meddela](linkedin.com/in/vishwaja-meddela)
 
-## **`Education:`**
-   ### **Masters in Information Technology** 
+## `Education:`
+   ### Masters in Information Technology
    - International Institute of Information Technology, Hyderabad, 2020-22 
    - CGPA - 7.3
 
-  ### **Bachelors in Electronics and Communication Engineering**
+  ### Bachelors in Electronics and Communication Engineering
    - G. Narayanamma Institute of Technology and Science, Hyderabad, 2016-19 
   - CGPA - 57%
 
-  ### **Diploma in  Electronics and Communication Engineering**
+  ### Diploma in  Electronics and Communication Engineering
   - Government Polytechnic for women Nizamabad,  2013-16 
   - CGPA - 87%
 
-  ### **SSC** 
+  ### SSC
   - Raghava High school, Nizamabad,  2013 
   - CGPA - 9.0
 
-## **`Skills: `**
-### **Python**
+## `Skills: `
+### Python
 
-●	Designed project requirements (1)  in collaboration with teammates
-●	Designed and developed game application project (1) with user interface
-●	Developed simple documentation needed for the frameworks
-●	Conducted testing, monitored  and analysed (1) project end results
+- Designed project requirements (1)  in collaboration with teammates
+- Designed and developed game application project (1) with user interface
+-	Developed simple documentation needed for the frameworks
+	Conducted testing, monitored  and analysed (1) project end results
 
 ### Java
 
-●	Designed and developed application project (1)
-●	Conducted testing also with corner test cases and reviewed the end results
+- Designed and developed application project (1)
+-	Conducted testing also with corner test cases and reviewed the end results
 
 ### HTML and CSS
 
-●	Designed and developed layout for multi page websites (3)
-●	Implemented, tested and reviewed the website projects (3)
+-	Designed and developed layout for multi page websites (3)
+-	Implemented, tested and reviewed the website projects (3)
 
 ### React-js
-●	Designed, developed, tested and reviewed the web application (1) based on checkpoints (end-to-end development)
+-	Designed, developed, tested and reviewed the web application (1) based on checkpoints (end-to-end development)
 
 You can use the [editor on GitHub](https://github.com/divyaparvatala/divyaparvatala.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
