@@ -1,27 +1,28 @@
 
 
-##**Looking to start a career as a Software Developer in an IT company where I can utilize my front-end and back-end domain skills along with problem solving skills to contribute to the organization's success.**
+### **Looking to start a career as a Software Developer in an IT company where I can utilize my front-end and back-end domain skills along with problem solving skills to contribute to the organization's success.**
 
-## **`Contact Details:`**
-### Phone: +91 7382285508
-### Email:  vishwajameddela18@gmail.com
-### Linkedin: [linkedin.com/in/vishwaja-meddela](linkedin.com/in/vishwaja-meddela)
+### **`Contact Details:`**
+- Phone: +91 7382285508
+- Email:  vishwajameddela18@gmail.com
+- Linkedin: [linkedin.com/in/vishwaja-meddela](linkedin.com/in/vishwaja-meddela)
 
-## **`Education:`**
-## **Masters in Information Technology** 
-## International Institute of Information Technology, Hyderabad, 2020-22 
-## CGPA - 7.3
+### **`Education:`**
+   **Masters in Information Technology** 
+   - International Institute of Information Technology, Hyderabad, 2020-22 
+   - CGPA - 7.3
 
-## **Bachelors in Electronics and Communication Engineering**
-## G. Narayanamma Institute of Technology and Science, Hyderabad, 2016-19 
-## CGPA - 57%
+  **Bachelors in Electronics and Communication Engineering**
+   - G. Narayanamma Institute of Technology and Science, Hyderabad, 2016-19 
+  - CGPA - 57%
 
-## **Diploma in  Electronics and Communication Engineering**
-## Government Polytechnic for women Nizamabad,  2013-16 
-## CGPA - 87%
-## **SSC** 
-## Raghava High school, Nizamabad,  2013 
-## CGPA - 9.0
+  **Diploma in  Electronics and Communication Engineering**
+  - Government Polytechnic for women Nizamabad,  2013-16 
+  - CGPA - 87%
+
+  **SSC** 
+  - Raghava High school, Nizamabad,  2013 
+  - CGPA - 9.0
 
 You can use the [editor on GitHub](https://github.com/divyaparvatala/divyaparvatala.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
