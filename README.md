@@ -1,7 +1,7 @@
 # Vishwaja Meddela
 ## Pursuin MSIT in IIIT-H
 
-### `Contact Details:`
+## `Contact Details:`
 
 ### Phone - +91 7382285508
 ### Email - vishwajameddela18@gmail.com
