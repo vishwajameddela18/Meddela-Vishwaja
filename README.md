@@ -8,50 +8,50 @@
 - Linkedin: [linkedin.com/in/vishwaja-meddela](linkedin.com/in/vishwaja-meddela)
 
 ## `Education:`
-   ### Masters in Information Technology
-   - International Institute of Information Technology, Hyderabad, 2020-22 
-   - CGPA - 7.3
+### Masters in Information Technology
+- International Institute of Information Technology, Hyderabad, 2020-22 
+- CGPA - 7.3
 
-  ### Bachelors in Electronics and Communication Engineering
-   - G. Narayanamma Institute of Technology and Science, Hyderabad, 2016-19 
-  - CGPA - 57%
+### Bachelors in Electronics and Communication Engineering
+- G. Narayanamma Institute of Technology and Science, Hyderabad, 2016-19 
+- CGPA - 57%
 
-  ### Diploma in  Electronics and Communication Engineering
-  - Government Polytechnic for women Nizamabad,  2013-16 
-  - CGPA - 87%
+### Diploma in  Electronics and Communication Engineering
+- Government Polytechnic for women Nizamabad,  2013-16 
+- CGPA - 87%
 
-  ### SSC
-  - Raghava High school, Nizamabad,  2013 
-  - CGPA - 9.0
+### SSC
+- Raghava High school, Nizamabad,  2013 
+- CGPA - 9.0
 
 ## `Skills: `
 ### Python
 
 - Designed project requirements (1)  in collaboration with teammates
 - Designed and developed game application project (1) with user interface
--	Developed simple documentation needed for the frameworks
-	Conducted testing, monitored  and analysed (1) project end results
+- Developed simple documentation needed for the frameworks
+- Conducted testing, monitored  and analysed (1) project end results
 
 ### Java
 
 - Designed and developed application project (1)
--	Conducted testing also with corner test cases and reviewed the end results
+- Conducted testing also with corner test cases and reviewed the end results
 
 ### HTML and CSS
 
--	Designed and developed layout for multi page websites (3)
--	Implemented, tested and reviewed the website projects (3)
+- Designed and developed layout for multi page websites (3)
+- Implemented, tested and reviewed the website projects (3)
 
 ### React-js
--	Designed, developed, tested and reviewed the web application (1) based on checkpoints (end-to-end development)
+- Designed, developed, tested and reviewed the web application (1) based on checkpoints (end-to-end development)
 
 ## `Project Description: `
 
-### Project Name: My portfolio
-**Role:** Designer and Developer
-**Technology Used :** HTML, CSS
-**Team-Size:** 1
-**Description:** My portfolio is a multi page portfolio website with each webpage consisting of different sections.
+**Project Name: My portfolio **
+- **Role:** Designer and Developer
+- **Technology Used :** HTML, CSS
+- **Team-Size:** 1
+- **Description:** My portfolio is a multi page portfolio website with each webpage consisting of different sections.
 
 - Designed layout consisting of different sections such as skills, contact details, Qualification etc
 - Applied HTML and CSS skills to format and layout  the website to make it look appealing
