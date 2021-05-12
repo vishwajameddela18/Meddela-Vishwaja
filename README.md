@@ -51,6 +51,7 @@
 
 - **Role:** Developer 
 - Currently, building a Question Answering Practicum Application in the fields of Information Retrieval and Natural Language Processing which is concerned with building systems that automatically answer questions posed by humans in a natural language.
+- **Sprint 1:** Developed a web scraper to scrape and get html pages from wikipedia websites without getting blocked 
 
 ### Project Name: My portfolio
 
